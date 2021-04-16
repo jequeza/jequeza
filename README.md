@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Top Languages I've Worked!](https://github-readme-stats.vercel.app/api/top-langs/?username=jequeza&layout=compact)](https://github.com/jequeza/github-readme-stats)
+
+
 [![Jesus G Quezada-Guillen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jequeza)](https://github.com/anuraghazra/github-readme-stats)
 
 
